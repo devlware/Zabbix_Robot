@@ -1,3 +1,11 @@
+# Robot log files
+log.html
+output.xml
+report.html
+
+# Apple stuff
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

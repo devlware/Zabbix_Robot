@@ -1,0 +1,6 @@
+*** Settings ***
+Library           ${CURDIR}/../Library/ZabbixLib.py  192.168.2.2  10050  2
+
+*** Variables ***
+${projectName}  Arduino Zabbix Agent
+${buildName}    Build 1.0
